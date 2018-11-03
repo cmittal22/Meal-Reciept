@@ -19,6 +19,7 @@ public class Mealreciept
 	String dessertStr = user.nextLine();
 	System.out.print("Please enter the price of your desert:  ");
 
+
 	}
 
 }
